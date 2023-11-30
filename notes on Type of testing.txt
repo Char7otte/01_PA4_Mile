@@ -1,0 +1,20 @@
+Unit Testing
+■ What is unit Testing?
+To test the smallest units or software components in a program.
+
+■ Unit Testing is conducted by
+the developer in his IDE
+
+■ It is type of (blackbox/whitebox testing)
+Whitebox
+
+
+Integration Testing
+■ What is Integration Testing?
+The combined execution of two or more classes, packages, components or subsystems that have been created by multiple programmers.
+
+■ Integration Testing is conducted by
+top-down testing and bottom-up testing
+
+■ It is type of (blackbox/whitebox testing)
+Blackbox 
