@@ -17,4 +17,27 @@ The combined execution of two or more classes, packages, components or subsystem
 top-down testing and bottom-up testing
 
 ■ It is type of (blackbox/whitebox testing)
-Blackbox 
+Blackbox
+
+
+Updated by” 01_Mile
+
+System testing
+■ What is system Testing?
+the execution of the software in its final configuration
+
+■ System Testing is conducted by
+test the system as a whole in an environment as similar as possible to the intended production environment.
+
+■ It is type of (blackbox/whitebox testing) 
+blackbox
+
+Acceptance testing
+■ What is acceptance Testing?
+to evaluate and validate that the system’s functionality meets the customer’s requirements, standards and business needs before the final delivery.
+
+■ Acceptance Testing is conducted by
+the final end-users who will buy the game test the product
+
+■ It is type of (blackbox/whitebox testing)
+blacbox
